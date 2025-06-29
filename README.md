@@ -12,7 +12,7 @@ I'm a **final-year engineering student** 👨‍🎓 passionate about tech, comm
 
 ## 🛠️ Projects
 
-- 📅 **[Hackathon Tracker](https://github.com/your-username/upcoming-hackathons)** — your go-to list for student-friendly hackathons  
+- 📅 **[Hackathon Tracker](https://github.com/NihalMandhyan/upcoming-hackathons)** — your go-to list for student-friendly hackathons  
 - 🧪 More projects coming soon: tools, websites, and open-source contributions 💬  
 
 ---
